@@ -1,7 +1,7 @@
 const questions = [
     {
       question : "Qual ingrediente NÃO faz parte da película?",
-      options: ["Amido de milho", "Glicerina", "Vinagre", "Plástico"],
+      options: ["Amido de milho", "Glicose", "Vinagre", "Plástico"],
       answer: 3
     },
     {
@@ -16,7 +16,7 @@ const questions = [
     },
     {
       question: "Qual ingrediente funciona como plastificante, deixando a película flexível?",
-      options: ["Vinagre", "Água", "Glicerina", "Amido de milho"],
+      options: ["Vinagre", "Água", "Glicose", "Amido de milho"],
       answer: 2
     },
     {
